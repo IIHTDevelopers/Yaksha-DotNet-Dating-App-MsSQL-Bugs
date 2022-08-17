@@ -11,7 +11,6 @@ using System.Threading.Tasks;
 
 namespace DatingApplication.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
     public class LikeController : ControllerBase
     {
